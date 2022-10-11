@@ -23,7 +23,7 @@ void main() {
               Row(
               children: [
                 SizedBox(
-                  width:200,
+                  width:180,
                 ),
                 BotaoBase(
                ),
