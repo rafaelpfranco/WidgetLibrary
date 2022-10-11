@@ -227,6 +227,12 @@ class BotaoBaseR extends BotaoR {
   );
 }
 
+class BotaoBaseEKKE extends BotaoR {
+  BotaoBaseR() :super(
+      color: Colors.pink
+  );
+}
+
 class BotaoAmareloR extends BotaoR {
   BotaoAmareloR() :super(
       color: Colors.yellow
