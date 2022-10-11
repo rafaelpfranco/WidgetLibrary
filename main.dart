@@ -101,7 +101,7 @@ void main() {
                 ),
               ),
               SizedBox(
-                height:10,
+                height:8,
               ),
               Text(
                 'Um texto grande',
